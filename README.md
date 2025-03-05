@@ -64,7 +64,7 @@ In an election with 5 candidates and 10 ballots:
 ## Tools and Technologies
 - Language: Java
 - Project Management: Maven (pom.xml configuration)
-- Version Control: Git and GitHub Classroom
+- Version Control: Git and GitHub
 
 ## Design Considerations
 - No Java collections used
